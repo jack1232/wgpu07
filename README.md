@@ -1,9 +1,9 @@
-# Rust *wgpu* Graphics Programming: Step-By-Step (6) 
-## Create a Colorful Square Using GUP buffer
+# Rust *wgpu* Graphics Programming: Step-By-Step (7) 
+## Create a Cube with Distinct Face Colors
 
 This is the source code for sixth video of the YouTube series on step-by-step Rust *wgpu* graphics programming.
 
-This sample *wgpu* app creates a colorful square using GPU buffer. The output from this app is shown in the following image.
+This sample *wgpu* app creates a 3D cube with distinct face colors. The output from this app is shown in the following image.
 
 ![wgpu05](src/images/image01.png)
 
